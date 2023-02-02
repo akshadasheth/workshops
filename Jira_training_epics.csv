@@ -1,0 +1,4 @@
+﻿EpicLink,Epic Name,IssueType,Summary
+,FindFlights,Epic,This will be parent for all the tasks\stories to implement the find flights functionality.
+,Login,Epic,This will be parent for all the tasks\stories to implement the login functionality.
+,SignUp,Epic,This will be parent for all the tasks\stories to implement the signup functionality.

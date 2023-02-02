@@ -1,0 +1,18 @@
+﻿Component,IssueType,Epic,UserStory,StoryPoints,AssignedTo,Priority
+SignUp\Login,Story,SignUp,As an user I must be able to sign up using name.,2,akshadasheth.23@gmail.com,High
+SignUp\Login,Story,Login,As an user I must be able to login using email and password.,2,akshadasheth.23@gmail.com,High
+FindFlights,Story,FindFlights,As an user I must be able to login to the phptravel site.,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to Navigate to Flights tab.,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to  Enter the source location.,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to  Enter the destination location.,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to Select the departure date,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to  Select number of passengers based on age,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to Select class ( Economy etc ),2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to  Select return date if round trip is selected,2,akshadasheth.23@gmail.com,Medium
+FindFlights,Story,FindFlights,As an user I must be able to Select flights by clicking on search and check the results.,2,akshadasheth.23@gmail.com,Medium
+Login/Signup,Story,Login,"As a user, I want to select login via FB account",2,akshadasheth.23@gmail.com,Low
+Login/Signup,Story,Login,"As a user, I must login via google",2,akshadasheth.23@gmail.com,High
+Login/Signup,Story,Login,"As a user, I must login with a mobile number",2,akshadasheth.23@gmail.com,High
+Login/Signup,Story,Login,"As a user, I must be able to login with an email id",2,akshadasheth.23@gmail.com,High
+Login/Signup,Story,Login,"As a user, I must be able to verify mobile number using OTP",2,akshadasheth.23@gmail.com,High
+Login/Signup,Story,Login,"As a user, I must enter user name and password",2,akshadasheth.23@gmail.com,High
